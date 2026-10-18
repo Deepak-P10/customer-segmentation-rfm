@@ -133,6 +133,3 @@ The notebook also displays exploratory charts and cluster-count evaluation resul
 └── README.md
 ```
 
-## License
-
-No license is specified in the notebook. Add a `LICENSE` file if you intend to distribute this project and want to define reuse terms.
